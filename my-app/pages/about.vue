@@ -1,5 +1,5 @@
 <template>
     <div>
-        flprfperpkfrepkf
+        about
     </div>
 </template>
