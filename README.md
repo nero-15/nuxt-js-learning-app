@@ -1,2 +1,3 @@
 # nuxt-js-learning-app
-nuxt.js 学習用 https://ja.nuxtjs.org/
+https://ja.nuxtjs.org/  
+nuxt.js 学習用
